@@ -1,0 +1,15 @@
+flask
+gunicorn
+opencv-python-headless
+numpy
+SpeechRecognition
+pyaudio
+google-generativeai
+requests
+Pillow
+textblob
+tensorflow
+mediapipe
+scikit-learn
+joblib
+flask-cors==4.0.0
